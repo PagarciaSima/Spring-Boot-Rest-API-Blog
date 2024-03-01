@@ -3,7 +3,7 @@
 
 # Descripción del Proyecto
 
-Este proyecto implica el desarrollo de una *Aplicación de Blog* utilizando *Spring Boot*. La aplicación cuenta con un backend robusto con puntos finales de API RESTful, permitiendo a los usuarios realizar operaciones CRUD sobre publicaciones de blog, comentarios y perfiles de usuario.
+Este proyecto implica el desarrollo de una *Aplicación de Blog* utilizando *Spring Boot*. La aplicación cuenta con un backend robusto con endpoints finales de API RESTful, permitiendo a los usuarios realizar operaciones CRUD sobre publicaciones de blog, comentarios y perfiles de usuario.
 
 ## Características Principales
 
